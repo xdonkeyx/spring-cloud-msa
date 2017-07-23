@@ -1,0 +1,6 @@
+rootProject.name = 'zuul'
+include 'application'
+include 'legacy'
+include 'discovery'
+include 'gateway'
+

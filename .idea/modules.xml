@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application.iml" group="application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application_main.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application_main.iml" group="application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application/application_test.iml" filepath="$PROJECT_DIR$/.idea/modules/application/application_test.iml" group="application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery/discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery/discovery.iml" group="discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery/discovery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery/discovery_main.iml" group="discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery/discovery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery/discovery_test.iml" group="discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/legacy/legacy.iml" filepath="$PROJECT_DIR$/.idea/modules/legacy/legacy.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/legacy/legacy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/legacy/legacy_main.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/legacy/legacy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/legacy/legacy_test.iml" group="legacy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul_main.iml" group="zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul_test.iml" group="zuul" />
+    </modules>
+  </component>
+</project>

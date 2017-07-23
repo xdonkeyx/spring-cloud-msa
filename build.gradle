@@ -1,0 +1,11 @@
+group 'io.tbal.cloud.gateway'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+    maven { url "http://repo.spring.io/libs-snapshot" }
+}
